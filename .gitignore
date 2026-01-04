@@ -1,0 +1,26 @@
+# Object files
+obj/
+*.o
+
+# Generated files
+src/lex.yy.c
+src/y.tab.c
+src/y.tab.h
+
+# Executable
+compiler
+compiler.exe
+
+# Output files
+output/*.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
