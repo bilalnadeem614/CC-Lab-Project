@@ -1,6 +1,10 @@
 int main() {
-    x = 10; 
-    return 0;
+   int x = 10;
+   int y;
+   
+   float z = 10.1;
+   y= z+x;
+    return 1.9;
 }
 
 
